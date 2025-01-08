@@ -2,11 +2,11 @@
 !*.dll
 !*.lib
 
-2025_Project01/Build/
-2025_Project01/Intermediate/
-2025_Project01/Saved/
-2025_Project01/DerivedDataCache/
-2025_Project01/Binaries/
-2025_Project01/.vs
-2025_Project01/Config/
-2025_Project01/Plugins/
+LyraCMS/Build/
+LyraCMS/Intermediate/
+LyraCMS/Saved/
+LyraCMS/DerivedDataCache/
+LyraCMS/Binaries/
+LyraCMS/.vs
+LyraCMS/Config/
+LyraCMS/Plugins/
